@@ -4,7 +4,8 @@ a little experiment using mediapipe to turn my hands into a glowing web. it trac
 
 ## demo
 
-*(add video/gif here)*
+https://github.com/user-attachments/assets/bec697df-1e8e-4b8b-a4ed-2fac32ec7ac6
+
 
 ## getting it running
 
