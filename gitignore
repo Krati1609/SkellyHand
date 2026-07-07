@@ -1,0 +1,20 @@
+# MediaPipe model (download separately, see README)
+hand_landmarker.task
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor/OS cruft
+*.swp
+*.swo
+.DS_Store
+
+# Large media (host externally, link in README instead)
+demo_showcase.mp4
